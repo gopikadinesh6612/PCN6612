@@ -1,0 +1,13 @@
+Compile and run TCP:
+g++ tcp-5nodes.cpp -o tcp-5nodes
+./tcp-5nodes
+
+
+Compile and run UDP:
+g++ udp-5nodes.cpp -o udp-5nodes
+./udp-5nodes
+
+
+
+sudo apt update
+sudo apt install g++
